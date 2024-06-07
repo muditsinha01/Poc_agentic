@@ -1,0 +1,114 @@
+{
+    "name": "Giovanni \"The Rat\" Russo",
+    "tldr": "Speakeasy Operator with a Secret",
+    "speech_pattern": "Whispers and Hushed Tones",
+    "motivation": "Survival Through Betrayal",
+    "character_sheet": {
+        "intellect": "cunning",
+        "charisma": "neutral",
+        "integrity": "deceptive",
+        "resilience": "defensive",
+        "kindness": "indifferent"
+    },
+    "relations": {
+        "Benny \"The Blade\" Montague": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "dependent-supporter",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "survival",
+                "cooperation",
+                "trust"
+            ],
+            "tldr": "I'm the leader"
+        },
+        "Pauline \"The Whisper\" Malone": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "equal",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "informants",
+                "survival",
+                "secretive"
+            ],
+            "tldr": "partners in crime"
+        },
+        "Xander \"The Hammer\" O'Malley": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "leader-follower",
+            "relationship_strength": "strong",
+            "relationship_keywords": [
+                "syndicate",
+                "partners",
+                "dependable"
+            ],
+            "tldr": "I'm the leader"
+        },
+        "Walter \"The Bull\" Callahan": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "leader-follower",
+            "relationship_strength": "strong",
+            "relationship_keywords": [
+                "loyalty",
+                "exploitative",
+                "intimidating"
+            ],
+            "tldr": "I'm the leader"
+        },
+        "Josephine \"The Viper\" Devereaux": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "equal",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "partners-in-crime",
+                "mutual-benefit",
+                "scheming"
+            ],
+            "tldr": "partners in crime"
+        },
+        "Vincent \"The Hawk\" Donnelly": {
+            "relationship_type": "adversarial",
+            "relationship_dynamic": "rivals",
+            "relationship_strength": "volatile",
+            "relationship_keywords": [
+                "suspicious",
+                "competitive",
+                "secretive"
+            ],
+            "tldr": "competitor"
+        },
+        "Yvonne \"The Temptress\" Carmichael": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "rivals",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "suspicion",
+                "competition",
+                "secretive"
+            ],
+            "tldr": "competitor"
+        },
+        "Rudy \"The Rat\" Ricci": {
+            "relationship_type": "professional",
+            "relationship_dynamic": "equal",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "partners in crime",
+                "secretive",
+                "trust"
+            ],
+            "tldr": "business partner"
+        },
+        "Rexford \"The Sentinel\" Reynolds": {
+            "relationship_type": "adversarial",
+            "relationship_dynamic": "rivals",
+            "relationship_strength": "moderate",
+            "relationship_keywords": [
+                "opposing",
+                "competitive",
+                "conflicted"
+            ],
+            "tldr": "arch-nemesis"
+        }
+    }
+}
