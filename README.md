@@ -21,7 +21,7 @@ This project is an NPC (Non-Player Character) generator for creating diverse and
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/npc-generator.git
+git clone https://github.com/your-username/Poc_agentic.git
 cd npc-generator
 ```
 
